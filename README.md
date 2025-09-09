@@ -1,0 +1,2 @@
+# test
+pentru deschiderea vsc
